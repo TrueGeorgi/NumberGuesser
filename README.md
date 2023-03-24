@@ -8,4 +8,7 @@ In NumberGuesser the computer will randomly select a number between 1 and 100, w
 ## Inputs and Outputs
 Choose a number between 1 and 100. The computer will allow you to select a number up to 999. If the guessed number is incorrect, the computer will point the player out if the number he have selected is greater or lower than he number the player is looking for.
 
+## Live Demo
+
+If you want, you can give the game a try in your browser here:
 https://replit.com/@TrueGeorgi/NumberGuesser

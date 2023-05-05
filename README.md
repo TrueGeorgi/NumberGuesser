@@ -12,3 +12,4 @@ Choose a number between 1 and 100. The computer will allow you to select a numbe
 
 If you want, you can give the game a try in your browser here:
 https://replit.com/@TrueGeorgi/NumberGuesser
+ 

@@ -33,12 +33,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/Softuni/02.True.Georgi - for certificates/2. Fundamentals with Java - January 2023/12. Exercise - Arrays/ExerciseArrays"
+    "last_opened_file_path": "C:/Users/georg/Desktop/Programing/GitHub/NumberGuesser/untitled"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="NumberGuesser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberGuesser" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -46,7 +46,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberGuesser" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

@@ -1,3 +1,6 @@
+import utilities.OutputComments;
+import utilities.Utils;
+
 import java.util.Random;
 import java.util.Scanner;
 import java.util.regex.Matcher;
@@ -24,8 +27,7 @@ public class Main {
                 case 3: // game with player's set limit for the top number
                     break;
             }
-
-
+            OutputComments.anotherGame();
         }
         String anotherGame = "";
 

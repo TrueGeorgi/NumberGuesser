@@ -1,3 +1,5 @@
+package utilities;
+
 import Games.Game;
 
 import java.util.Scanner;
@@ -40,6 +42,10 @@ public class Utils {
         return input.matches("\\d+");
     }
 
+    public static boolean correctIntInput (String input, int limit) {
+        return (input.matches("\\d+") && Integer.parseInt(input) <= limit);
+    }
+
     public static int correctIntInputLimit (String input) {
         if (correctIntInput(input)) {
             int inputInt = Integer.parseInt(input);
@@ -49,8 +55,6 @@ public class Utils {
                 throw new IndexOutOfBoundsException("You had to chose a number between 1 and " + Game.NUMBER_OF_GAMES + ".");
             }
         }
-        throw new IllegalArgumentException("The input had to be a number.");
+        throw new IllegalArgumentException("The input has to be a number.");
     }
-
-    public boolean
 }
